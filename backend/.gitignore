@@ -2,5 +2,4 @@ venv
 __pycache__
 archive
 models
-DETECTION_MODEL_ID = "1UXMalKpheEwQeoKQBGrAJzW91OPd5fcF"
-SEGMENTATION_MODEL_ID = "1-U3EsWjGkBw_so0qBQR94_8yAof-T42D"
+
