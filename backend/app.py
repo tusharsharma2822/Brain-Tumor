@@ -14,8 +14,6 @@ app = Flask(__name__)
 CORS(app)
 
 # === Google Drive Model IDs ===
-DETECTION_MODEL_ID = "1UXMalKpheEwQeoKQBGrAJzW91OPd5fcF"
-SEGMENTATION_MODEL_ID = "1-U3EsWjGkBw_so0qBQR94_8yAof-T42D"
 
 # === Construct Download URLs ===
 DETECTION_MODEL_URL = f"https://drive.google.com/uc?id={DETECTION_MODEL_ID}"
